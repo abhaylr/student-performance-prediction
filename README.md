@@ -43,4 +43,4 @@ This project uses a student performance dataset with features such as:
 ## How to Run
 ```bash
 pip install -r requirements.txt
-jupyter notebook
+jupyter notebook/GoogleColab
