@@ -26,8 +26,8 @@ This project uses a student performance dataset with features such as:
 7. Evaluated using MAE and R² score
 
 ## Results
-- MAE: your_value_here
-- R² Score: your_value_here
+- MAE: 0.452
+- R² Score: 0.769
 
 ## Key Insights
 - Study hours have a strong effect on exam score
